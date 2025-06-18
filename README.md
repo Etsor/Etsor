@@ -1,2 +1,2 @@
-<img src="https://github-readme-stats-delta-eight-95.vercel.app/api/top-langs/?username=Etsor&langs_count=8&theme=gruvbox&layout=donut"/>
+<img src="https://github-readme-stats-delta-eight-95.vercel.app/api/top-langs/?username=Etsor&langs_count=9&theme=gruvbox&layout=donut"/>
 
